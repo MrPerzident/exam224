@@ -1,0 +1,79 @@
+body{
+    background-color: black;
+}
+
+#header h6{
+    color: var(--white, #FFF);
+    font-size: 32px;
+    font-family: Space Grotesk;
+    font-weight: 600;
+    line-height: 32px;
+    letter-spacing: -0.444px;
+    margin-left: 169px;
+    margin-top: 39px;
+}
+
+#icons{
+    color: #FFF;
+}
+
+.fa-github{
+    width: 24.607px;
+    height: 24px;
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    margin-top: 44px;
+    margin-left: 1053px;
+    }
+
+.fa-linkedin{
+    width: 24px;
+    height: 24px;
+    flex-shrink: 0;
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    margin-top: 44px;
+    margin-left: 1109.61px;
+}
+
+.fa-twitter{
+    width: 23.28px;
+    height: 18.925px;
+    flex-shrink: 0;
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    margin-top: 44px;
+    margin-left: 1166.21px;
+}
+
+#section h1{
+    font-size: 88px;
+    font-family: Space Grotesk;
+    font-weight: 700;
+    line-height: 88px;
+    letter-spacing: -2.5px;
+    margin-left: 165px;
+    display: block;
+}
+
+#section img{
+    display: block;
+    width: 444.876px;
+    height: 618px;
+    flex-shrink: 0;
+    margin-left: 1000px;
+    background-color: rgba(141, 138, 138, 0.304);
+    position: absolute;
+    top: 20%;
+    left: -5%;
+}
+
+.ContactBtn{
+    border-bottom: lightgreen solid;
+    background-color: black;
+    color: #FFF;
+}
+
